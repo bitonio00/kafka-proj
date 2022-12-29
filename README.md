@@ -2,6 +2,22 @@
 
 ## I. What is Kafka ?
 
+Apache Kafka is a distributed streaming platform that is used for building real-time data pipelines and streaming applications. It was developed by the Apache Software Foundation and is written in Scala and Java.
+
+Kafka is designed to handle high volumes of data efficiently and with low latency. It can process millions of messages per second and can handle terabytes of data without any issues. Kafka is used by many companies around the world, including LinkedIn, Netflix, and Twitter, to build real-time data pipelines and streaming applications.
+
+Kafka works by using a publish-subscribe model, where producers write data to Kafka topics and consumers read data from those topics. Kafka topics are partitioned and replicated across a cluster, which allows for high availability and fault tolerance. Kafka also has strong durability, meaning that data is persisted on disk and can be recovered in the event of a failure.
+
+Kafka has many features that make it useful for building real-time data pipelines and streaming applications. Some of these features include:
+
+- High throughput: Kafka can handle high volumes of data efficiently, with low latency.
+- Scalability: Kafka can scale horizontally by adding more brokers to the cluster.
+- Fault tolerance: Kafka replicates data across multiple brokers and can recover from failures.
+- Durability: Kafka persists data on disk, which means that data is not lost in the event of a failure.
+- Real-time processing: Kafka can process data in real-time, making it useful for streaming applications.
+- Integration: Kafka can integrate with other systems and technologies, such as Hadoop, Spark, and Elasticsearch.
+- Overall, Kafka is a powerful and reliable platform that is used by many companies around the world to build real-time data pipelines and streaming applications.
+
 ## II. Using kafka on window 
 
 Kafka was not at first built to run on window but you can do it with a certain configuration. Knowing that we were using window we had to do those steps.
