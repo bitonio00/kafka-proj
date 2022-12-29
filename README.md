@@ -19,9 +19,9 @@ Kafka has many features that make it useful for building real-time data pipeline
 
 Overall, Kafka is a powerful and reliable platform that is used by many companies around the world to build real-time data pipelines and streaming applications.
 
-## II. Using kafka on window 
+## II. Using kafka on windows
 
-Kafka was not at first built to run on window but you can do it with a certain configuration. Knowing that we were using window we had to do those steps.
+Kafka was not at first built to run on windows but you can do it with a certain configuration. Knowing that we were using window we had to do those steps.
 
 1. Install WSL2
 2. Install Java JDK version 11
