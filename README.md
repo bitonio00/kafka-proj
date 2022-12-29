@@ -16,7 +16,8 @@ Kafka has many features that make it useful for building real-time data pipeline
 - Durability: Kafka persists data on disk, which means that data is not lost in the event of a failure.
 - Real-time processing: Kafka can process data in real-time, making it useful for streaming applications.
 - Integration: Kafka can integrate with other systems and technologies, such as Hadoop, Spark, and Elasticsearch.
-- Overall, Kafka is a powerful and reliable platform that is used by many companies around the world to build real-time data pipelines and streaming applications.
+
+Overall, Kafka is a powerful and reliable platform that is used by many companies around the world to build real-time data pipelines and streaming applications.
 
 ## II. Using kafka on window 
 
