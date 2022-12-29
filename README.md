@@ -103,5 +103,5 @@ The output expected is the input.txt
 11 : 5lb coconut
 ``` 
 
- 
+ So in conclusion we create a KafkaProducer to write records to Kafka.
  
